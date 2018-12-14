@@ -1,0 +1,14 @@
+Package: ColBarplot
+Type: Package
+Title: colourful Barplots
+Version: 0.1.0
+Author: "Maknine Nour EL Houda"
+Maintainer: Maknine Nour EL Houda <michellang@gmail.com> 
+Description: colourful Barplots with their values and add the source of your data and change the police od the title 
+License: MIT
+Encoding: UTF-8
+Imports: ggplot2, 
+         ggpubr, 
+         RColorBrewer
+LazyData: true
+RoxygenNote: 6.1.0
